@@ -2,10 +2,5 @@ Este es un primer archivo.
 
 Le haremos algunas modificaciones y registraremos estos cambios en git.
 
-    adfksafdsafdsa
 
-    Se cambió.
-
-Agrego algo más, pero nada de que preocuparse.
-
-Ahora, reviso lo que hice. Y agregamos un commit más.
+Mañana hacemos otros cambios.
